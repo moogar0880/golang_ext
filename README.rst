@@ -6,7 +6,8 @@ Golang Ext Provides two key pieces of functionality.
 First off, it provides a pythonic way of writing and building Python
 extensions in Go.
 
-Secondly, it provides a module similar to Python's builtin ctypes module, that
+Secondly, it provides a module similar to Python's builtin `ctypes
+<https://docs.python.org/3.4/library/ctypes.html>`_. module, that
 exposes a thin wrapper around some of Go's more pertinent internals.
 
 Extensions
