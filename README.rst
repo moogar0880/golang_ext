@@ -1,7 +1,7 @@
 golang_ext
 ==========
 
-Golang Ext Provides two key pieces of functionality.
+Golang Ext Provides two key pieces of functionality. Or, at least it *will*. Eventually...
 
 First off, it provides a pythonic way of writing and building Python
 extensions in Go.
